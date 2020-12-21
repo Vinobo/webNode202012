@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "5f924bb17098118a321236a6"
+  },
+  "id": "001",
+  "name": "AK47",
+  "price": 3000,
+  "img": "AK47.jpg"
+},{
+  "_id": {
+    "$oid": "5f924c22dc784036088ea81a"
+  },
+  "id": "002",
+  "name": "M4a1",
+  "price": 2800,
+  "img": "M4a1.jpg"
+},{
+  "_id": {
+    "$oid": "5f9f79cee0e5bf45640e7bbe"
+  },
+  "id": "003",
+  "name": "AWM",
+  "price": 5000,
+  "img": "AWM.jpg"
+},{
+  "_id": {
+    "$oid": "5f9f7b84e0e5bf45640e7bbf"
+  },
+  "id": "004",
+  "name": "Barrett_XM500",
+  "price": 6000,
+  "img": "Barrett_XM500.jpg"
+},{
+  "_id": {
+    "$oid": "5f9f80238e98fa0660b0bd3f"
+  },
+  "id": "005",
+  "name": "Desert Eagle",
+  "price": 1500,
+  "img": "DE.jpg"
+},{
+  "_id": {
+    "$oid": "5f9f80b12f0ae449100834e3"
+  },
+  "id": "006",
+  "name": "Anaconda",
+  "price": 1700,
+  "img": "Anaconda.jpg"
+}]

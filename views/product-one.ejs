@@ -1,0 +1,12 @@
+<div class="col-sm-4">
+    <div class="card" style="width: 18rem; ">
+        <div>
+            <img class="card-img-top center" style="width:200px;height:100px;" src="/images/<%=product.img%>" alt="Card image cap">
+        </div>
+        <div class="card-body">
+        <h5 class="card-title" style="font-size: 20px;"><%=product.id%> : <%=product.name%></h5>
+        <p class="card-text">Price: <%=product.price%> </p>
+        <button type="submit" class="btn btn-success" onclick="add_to_cart('<%=product.id%>' , '<%=product.name%>')"><i class="fa fa-shopping-cart" style="color: black;font-size:20px"></i> Add to Cart</button>
+        </div>
+    </div>
+</div>
